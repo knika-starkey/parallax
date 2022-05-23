@@ -32,7 +32,15 @@ $(document).ready(function () {
       }
       $(".jumbotron").css(
         "background-position",
-        "center " + -(winTop * 0.5) + "px"
+        "60px " +
+          (-(winTop * 0.4) + 220) +
+          "px," +
+          "350px " +
+          -(winTop * 0.3) +
+          "px," +
+          "center " +
+          -(winTop * 0.5) +
+          "px"
       );
     });
   });
