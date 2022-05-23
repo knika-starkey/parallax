@@ -1,9 +1,9 @@
 .jumbotron {
     background-color: #185899;
     background-image: url(./images/pngwing.png), url(./images/Alien-PNG-Free-File-Download.png), url(./images/mars2.jpg);
-    background-position:60px 220px, 350px 0px, center 0px;
+    background-position:left 220px, right 90px, center 0px;
     background-attachment:fixed, fixed, fixed;
-    background-size: 50%, 70%, cover;
+    background-size: 640px 391px, 552px 466px, cover;
     background-repeat: no-repeat, no-repeat, no-repeat;
     color: #ffffff;
     padding: 200px 0;

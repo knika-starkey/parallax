@@ -32,11 +32,11 @@ $(document).ready(function () {
       }
       $(".jumbotron").css(
         "background-position",
-        "60px " +
+        "left " +
           (-(winTop * 0.4) + 220) +
           "px," +
-          "350px " +
-          -(winTop * 0.3) +
+          "right " +
+          (-(winTop * 0.3) + 90) +
           "px," +
           "center " +
           -(winTop * 0.5) +
